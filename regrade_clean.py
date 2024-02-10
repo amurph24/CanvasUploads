@@ -16,15 +16,18 @@ if len(sys.argv) != 3:
     print("Usage: python regrade.py <gradebooks/> <regrades.csv>")
     sys.exit(1)
 
-# validate files
+# validate regrade file
 for fname in sys.argv[2:]:
     if shelp.get_file_type(fname) != ".csv":
         print(f"Usage: {fname} must be of type '.csv'")
         sys.exit(1)
+shelp.remove_bom(sys.argv[2])
 
 # validate dirs
 shelp.validate_dir(sys.argv[1])
 shelp.validate_dir("additional_feedback")
+
+
 
 gBooks = [pd.read_csv(os.path.join(sys.argv[1],gbookpath)) for gbookpath in os.listdir(sys.argv[1])]
 regrades = pd.read_csv(sys.argv[2], encoding='latin-1')
@@ -48,23 +51,32 @@ combined_gbook = pd.DataFrame()
 for i, gbook in enumerate(gBooks):
     combined_gbook = pd.concat([combined_gbook, gbook])
 
+#test_name = input("Test name: ")
+
 regrades = pd.merge(regrades, combined_gbook[["ID", "SIS User ID", "Test 2"]],
                     how='left',
-                    left_on='student #',
+                    left_on='studentNum',
                     right_on='SIS User ID')
 
 # aggregate grade changes
-regrades['scoreChangeSum'] = regrades.groupby(["ID", "SIS User ID"])["scoreChange"].transform("sum")
-regrades['initialScore'] = regrades['Test 2']
-regrades['newScore'] = regrades['initialScore'].astype("float").astype("Int64") + regrades['scoreChangeSum'].astype("float").astype("Int64")
-regrades= regrades.drop_duplicates(subset=["ID", "SIS User ID", "initialScore"], keep="last")
+regrades["scoreChangeSum"] = regrades.groupby(["ID", "SIS User ID"])["scoreChange"].transform("sum")
+# format comments
+regrades.loc[regrades["comments"].isnull(), "comments"] = "No comments left by marker"
+print(regrades["comments"])
+regrades["feedback"] = regrades["Q for review"].astype(str) + regrades["comments"].astype(str)
+print(regrades["feedback"])
+
+regrades = regrades.drop_duplicates(subset=["ID", "SIS User ID"], keep="last")
 regrades = regrades.reset_index(drop=True)
 
-regrades_final = regrades[["ID", "SIS User ID", "initialScore", "scoreChangeSum", "newScore", "comments"]]
-regrades = regrades.drop(regrades[regrades["scoreChangeSum"] == 0].index).reset_index(drop=True)
+# format grades for upload to Canvas
+regrades['initialScore'] = regrades['Test 2']
+regrades['newScore'] = regrades['initialScore'].astype("float").astype("Int64") + regrades['scoreChangeSum'].astype("float").astype("Int64")
 
+
+# organise output
+regrades_final = regrades[["ID", "SIS User ID", "initialScore", "scoreChangeSum", "newScore", "comments"]]
 regrades_final.to_csv('output/regrades.csv', index=False)
 
 print("duplicates:")
 print(regrades[regrades.duplicated(subset=['ID'], keep=False)])
-# Prep for Canvas upload
