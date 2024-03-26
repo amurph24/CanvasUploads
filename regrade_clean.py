@@ -70,7 +70,7 @@ regrades = pd.merge(regrades, combined_gbook[["ID", "SIS User ID", assignment_na
 
 # format comments
 regrades.loc[regrades["comments"].isnull(), "comments"] = "*No comments left by regrader*"
-regrades["feedback"] = "Question regraded: Q." + regrades["Question for review"].astype(str) + "\n\nChange in grade: " + regrades['scoreChange'].astype(str) + "\n\nComments left by regrader: " + regrades["comments"].astype(str)
+regrades["feedback"] = "Question regraded: Q." + regrades["Question for review"].astype(str) + "\n\nChange in grade: " + "\n\nComments left by regrader: " + regrades["comments"].astype(str)
 
 # aggregate grade changes
 regrades["scoreChangeSum"] = regrades.groupby(["ID", "SIS User ID"])["scoreChange"].transform("sum")

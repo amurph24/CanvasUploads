@@ -1,911 +1,911 @@
 ID,SIS User ID,initialScore,scoreChangeSum,newScore,feedback
 987670.0,49772668.0,5.00,0,5,"Question regraded: Q.2
 
-Change in grade:-1
+Change in grade: 
 
 Comments left by regrader: started with the wrong substitution; not eligible for any of the part marks listed in rubric"
 800607.0,70126644.0,1.00,2,3,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: *No comments left by regrader*"
 960651.0,53873725.0,7.00,0,7,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: *No comments left by regrader*"
 1049437.0,32945925.0,1.00,0,1,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: *No comments left by regrader*"
 1026467.0,72062847.0,14.00,1,15,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: *No comments left by regrader*"
 964308.0,94979507.0,6.00,0,6,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: An answer is partially correct, but doesn't follow the instruction in the problem"
 1040878.0,54399555.0,4.00,0,4,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: The substitution was not done correctly; du is not correctly computed."
 948506.0,32964645.0,1.00,0,1,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: The substitution was not done correctly; du is not correctly computed."
 1017343.0,71620918.0,9.00,0,9,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: The substitution was not done correctly; du is not correctly computed."
 1037130.0,56695331.0,6.00,0,6,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: The substitution was not done correctly, and expression for cos(\theta) is not enough for a partial mark."
 1026827.0,41101338.0,7.00,1,8,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Incorrect substitution, but sqrt(6)tan(\theta) was present, albeit implicitly. No marks for \sec(\theta) in terms of x."
 1008490.0,44983658.0,8.00,0,8,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: sqrt(6) is in the denominator, so no marks awarded for the very first item in the rubric."
 1079761.0,55992465.0,5.00,0,5,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Substitution was left unfinished, and the result is not correct, no marks for that"
 1016133.0,33303454.0,12.00,1,13,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Left the final answer in terms of x, but with a trig(arctrig) expression"
 983330.0,66014192.0,11.00,0,11,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Did attempt to substitute u=e^{3x}, but mixed variables in the integral which is always incorrect. (scratched out work is never graded)"
 983326.0,21343439.0,9.00,3,12,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: +1 for writing t as any arctrig function of the original exponential function."
 1008722.0,84274711.0,6.00,1,7,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Correctly substituted e^{3x} but did not perform a trig sub after this"
 1008337.0,91048355.0,7.00,0,7,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Attempts to perform a substitution, but does no part of the sub correctly and leaves the integral with mixed variables "
 1014446.0,57350183.0,7.00,2,9,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Attempts correct substitution, but error when finding du makes problem far easier. "
 985414.0,54680673.0,8.00,1,9,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Correctly substituted e^{3x} but incorrect trig sub makes problem far easier"
 1008497.0,60497583.0,2.00,0,2,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: No correct work."
 961740.0,72193626.0,14.00,1,15,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: +1 for writing t as any arctrig function of the original exponential function."
 985731.0,61199105.0,13.00,1,14,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: +1 for writing u as arctrig function, but no points for the incorrect trig sub"
 1024659.0,14583348.0,9.00,2,11,"Question regraded: Q.2
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: Correct attempt at trig sub and wrote u as arctrig function, but incorrect work makes the problem much easier"
 825856.0,47692678.0,0.00,2,2,"Question regraded: Q.1
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: [2 total] Marking solution attempt on p. 4: correct sub identified (+1) and du calculated correctly (+1). No more pts possible (incorrect sub into integrand, incorrect antideriv, no bounds, etc)."
 1050164.0,10183556.0,13.00,2,15,"Question regraded: Q.1
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: [5 total] +1 for bounds, +1 for correct final answer for their antiderivative. All of this is correct except for the actual antidifferentiation step."
 831831.0,59919415.0,7.00,0,7,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: [5 total] Marked correctly: lost 1 pt due to sign error in antiderivative."
 957012.0,43283761.0,5.00,5,10,"Question regraded: Q.1
 
-Change in grade:5
+Change in grade: 
 
 Comments left by regrader: [5 total] Correct except for antiderivative."
 1033771.0,83806224.0,1.00,2,3,"Question regraded: Q.1
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: [2 total] +1 for u-substitution, +1 for du calculation"
 1033876.0,86746435.0,9.00,2,11,"Question regraded: Q.1
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: [3 total] Correct u, du, and integrand. No marks for antiderivative, final answer simplification error, and treatment of bounds (see Test 1 info document, Presentation, #2)."
 1030456.0,67346957.0,7.00,-2,5,"Question regraded: Q.1
 
-Change in grade:-3
+Change in grade: 
 
 Comments left by regrader: [0 total] There is a lot of work here that isn't wrong but makes no progress towards a form of the integral that can be evaluated."
 664769.0,71931042.0,13.00,4,17,"Question regraded: Q.1
 
-Change in grade:4
+Change in grade: 
 
 Comments left by regrader: [5 total] +1 for du, +1 for bounds, +1 antiderivative, +1 final answer. Errors in integrand."
 1012592.0,19128800.0,8.00,0,8,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: [4 total]  Marked correctly. Lost pts for bounds and final answer. Rubric states ""If they do not treat the bounds correctly, they can get at most 4/6 pts."""
 1047212.0,42866996.0,12.00,1,13,"Question regraded: Q.1
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: [5 total] Correct except for final answer simplification. Nice work!"
 825648.0,63593537.0,8.00,2,10,"Question regraded: Q.1
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: Q1 Correct substitution "
 1008530.0,19927367.0,11.00,0,11,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Midterm correctly marked first time"
 1006942.0,49746563.0,13.00,0,13,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Midterm correctly marked first time"
 1013214.0,88570312.0,1.00,0,1,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Midterm correctly marked first time"
 1024679.0,22137699.0,7.00,0,7,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Midterm correctly marked first time"
 1008033.0,61113924.0,7.00,8,15,"Question regraded: Q.1
 
-Change in grade:5
+Change in grade: 
 
 Comments left by regrader: Solution is correct."
 1013212.0,55195432.0,7.00,1,8,"Question regraded: Q.1
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Reasonable substitution, but the derivative is incorrect."
 1015229.0,39582408.0,12.00,4,16,"Question regraded: Q.1
 
-Change in grade:4
+Change in grade: 
 
 Comments left by regrader: Incorrect treatment of limits of integration only."
 1013559.0,99358996.0,11.00,-2,9,"Question regraded: Q.1
 
-Change in grade:-2
+Change in grade: 
 
 Comments left by regrader: Chosen substitution is not defined on the interval."
 984931.0,91327361.0,3.00,5,8,"Question regraded: Q.1
 
-Change in grade:5
+Change in grade: 
 
 Comments left by regrader: All is correct. Finals answer is 8-16/3 which is equal to correct 8/3."
 1009958.0,78090925.0,0.00,0,0,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: *No comments left by regrader*"
 960263.0,23492879.0,13.00,2,15,"Question regraded: Q.1
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: There is a sign error in start with substituting dx=du instead of correct dx=-du. Rest of the calculation is correct and the final answer is negative of the true, but has also  constant"
 1032674.0,81694846.0,9.00,5,14,"Question regraded: Q.1
 
-Change in grade:4
+Change in grade: 
 
 Comments left by regrader: Sign error with substitution, dx=du instead of dx=-du. All else correct and the final answer is negative of the true answer"
 1033492.0,51046555.0,11.00,0,11,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Work implies that the definite and definite integral are the same thing, both given the name $I_1$"
 1006984.0,39917240.0,5.00,0,5,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Final answer is not simplified (-1 mark). Bounds of integration are incorrect after substitution (-1 mark)."
 1045130.0,91829267.0,6.00,0,6,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Final answer is not simplified (-1 mark). Bounds of integration are incorrect after substitution (-1 mark)."
 1040878.0,54399555.0,4.00,0,4,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Fails to integrate to get arctan (-1 mark). Final answer is not correct (-1 mark). Bounds of integration are incorrect after substitution (-1 mark)."
 984020.0,66789843.0,7.00,0,7,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Bounds are incorrect in the second line after changing variables to du"
 948506.0,32964645.0,1.00,0,1,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Correct subsititution u=cos(x) is not present. By the way, 1+cos^2x does not equal sin^2x"
 963202.0,51350791.0,10.00,0,10,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Bounds are incorrect after substitution "
 1008490.0,44983658.0,8.00,0,8,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Bounds are incorrect in the first integral since you're still integrating in x"
 949354.0,63687412.0,7.00,0,7,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Final answer is not simplified. An indefinite integral turns into a definite integral -- these two are not equal"
 801681.0,45379450.0,3.00,0,3,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: The subsittution u = g(x) = 1 + cos^2x maps [0,\pi] to the interval [1,2]. Your proposed outer function f(u) = (u\sqrt{u-1})^{-1} is not continuous on [1,2] which is required for substitution. This is why you get 0 instead of the correct answer. Try u=cosx instead. "
 1079761.0,55992465.0,5.00,0,5,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Bounds are incorrect in the first integral since you're integrating in u. Final answer is not simplified. "
 1040145.0,43933282.0,4.00,0,4,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Final answer is incorect (-1 mark). Integral should be arctan, not arccot (-1 mark). Bounds are wrong while integrating in u (-1 mark)."
 1036200.0,53694063.0,13.00,0,13,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Did not change bounds on integration during substitution"
 822324.0,11721834.0,12.00,0,12,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Did not change bounds on integration during substitution"
 831831.0,59919415.0,7.00,0,7,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Only correct choice of u and du but rest of the problem is incorrect"
 949871.0,87605796.0,7.00,0,7,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Bounds are incorrect in the second integral since you're integrating in u. Final answer is not simplified. "
 1005676.0,69805943.0,10.00,0,10,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Final answer is incorrect. Bounds are incorrect while integrating in u"
 987670.0,49772668.0,5.00,0,5,"Question regraded: Q.1
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Correctly changed the bounds of integration"
 800607.0,70126644.0,1.00,2,3,"Question regraded: Q.1
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: Correct choice of u. Correct du. "
 1033153.0,40355828.0,7.00,0,7,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Answer equates an indefinite integral with a definite integral. They are not the same"
 960651.0,53873725.0,7.00,0,7,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Did not simplify final answer. Equates an indefinite integral with a definite integral which are not the same. "
 961937.0,25860198.0,7.00,7,14,"Question regraded: Q.2
 
-Change in grade:3
+Change in grade: 
 
 Comments left by regrader: Should get all but 2 marks. There is a small error in simplifying the integral and the answer is not simplified (9^{1/2}=3 should be simplified)"
 1021758.0,86575198.0,7.00,3,10,"Question regraded: Q.2
 
-Change in grade:3
+Change in grade: 
 
 Comments left by regrader: Error in simplifying integral (sqrt{1+u^2} \neq 1+u) but further work is correct and answer simplified. "
 941379.0,65163677.0,14.00,1,15,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Answer is correct, just simplified wrong. "
 1044541.0,15160898.0,7.00,1,8,"Question regraded: Q.1
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Changing bounds of integration is correct the first time (but not the second time)"
 1040712.0,68506864.0,4.00,0,4,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Bounds are incorrect in one step. Final answer is not simplified"
 961896.0,68473438.0,10.00,0,10,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Final answer is not simplified (-1 mark). Bounds of integration are incorrect after substitution (-1 mark)."
 1048576.0,85834612.0,5.00,1,6,"Question regraded: Q.1
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Bounds of integration are changed correctly"
 601627.0,81902629.0,6.00,0,6,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: du is never made explicit. dx is written for integrals in u. algebra error (distributing) prevents grades for integrating correctly in u"
 987190.0,74213307.0,5.00,0,5,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Wrong substitution, simplification, integration, bounds on integral. "
 1033876.0,86746435.0,9.00,2,11,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Wrong final answer and bounds on integration not changed"
 1050335.0,76197284.0,14.00,1,15,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Correct answer just not simplified (9^{1/2} should be simplified)"
 1030456.0,67346957.0,7.00,-2,5,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: After the substitution, the integral is simplified incorrectly, but then is integrated correctly. "
 959611.0,70447628.0,14.00,2,16,"Question regraded: Q.2
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: Fully correct solution"
 1012955.0,94127065.0,10.00,0,10,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Only correct steps are giving a valid u and du. "
 1047212.0,42866996.0,12.00,1,13,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Incorrect final answer, and incorrect bounds on the integration during the substitution steps"
 1034695.0,44483337.0,17.00,1,18,"Question regraded: Q.1
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Fully correct solution"
 1005073.0,68251602.0,1.00,1,2,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Partial marks are only awarded for the reasons stated in the rubric. Even though work was done, it was in the wrong direction."
 965378.0,11676061.0,15.00,1,16,"Question regraded: Q.1
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Fully correct solution"
 1011111.0,15259559.0,7.00,1,8,"Question regraded: Q.1
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: It's not clear how this answer was found. in general, you need to use substitution to explain this."
 1031376.0,90799735.0,14.00,2,16,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: When calculating the indefinite integral, the coefficient ""C"" must appear. It only appeared in the final solution."
 982697.0,24670481.0,11.00,0,11,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: When calculating the indefinite integral, the coefficient ""C"" must appear. It only appeared in the final solution."
 1041836.0,67142174.0,17.00,0,17,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: When calculating the indefinite integral, the coefficient ""C"" must appear. It only appeared in the final solution."
 860847.0,56429574.0,10.00,1,11,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: When calculating the indefinite integral, the coefficient ""C"" must appear. It only appeared in the final solution."
 1030876.0,76387802.0,9.00,3,12,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: It is not sufficient for the ""+C"" to only appear at the end; it also needs to appear on the line above, which is why a point was taken off in the first place."
 1005736.0,24776585.0,10.00,0,10,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: It is not sufficient for the ""+C"" to only appear at the end; it also needs to appear on the line above, which is why a point was taken off in the first place."
 863509.0,67629311.0,14.00,0,14,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: It is not sufficient for the ""+C"" to only appear at the end; it also needs to appear in earlier lines, which is why a point was taken off in the first place."
 1028604.0,85575850.0,11.00,0,11,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: It is not sufficient for the ""+C"" to only appear in the last expression; it also needs to appear in earlier expressions, which is why a point was taken off in the first place."
 1036349.0,88635685.0,8.00,1,9,"Question regraded: Q.1
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: 1 additional mark given for ""correct resulting integral"". (No further marks given after that point, as the subsequent handling of the integral proceeds incorrectly.)"
 958426.0,78181591.0,17.00,0,17,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: It is not sufficient for the ""+C"" to only appear at the end; it also needs to appear on the line above, which is why a point was taken off in the first place."
 983326.0,21343439.0,9.00,3,12,"Question regraded: Q.1
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: caculation of du is incorrect"
 1018126.0,27612662.0,8.00,1,9,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: No relevant correct answer is provided"
 1008497.0,60497583.0,2.00,0,2,"Question regraded: Q.1
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: No relevant correct answer is provided"
 1012475.0,91388926.0,14.00,0,14,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: The calculation of the acceleration is not correct, as the incorrect formula v=d/t is used. The final result ends up being correct because x(t)/t^2 is constant (in fact, this constant is the acceleration divided by 2), but no correct justification for that has been provided."
 1041859.0,95628731.0,12.00,0,12,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: The incorrect formula velocity = distance/time has been used"
 1008033.0,61113924.0,7.00,8,15,"Question regraded: Q.3
 
-Change in grade:3
+Change in grade: 
 
 Comments left by regrader: Taking into account the error in the calculation of the position of A at 4 seconds, a fully correct computation of the acceleration has been achieved. So, in total, all the marks can be awarded except the ""2 marks for finding the position of runner A after 5 second"""
 822324.0,11721834.0,12.00,0,12,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Partial marks are only awarded for the reasons stated in the rubric."
 831831.0,59919415.0,7.00,0,7,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Partial marks are only awarded for the reasons stated in the rubric."
 961937.0,25860198.0,7.00,7,14,"Question regraded: Q.3
 
-Change in grade:4
+Change in grade: 
 
 Comments left by regrader: 2/2 for part (a), and 2/4 for part (b)"
 1009958.0,78090925.0,0.00,0,0,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Partial marks are only awarded for the reasons stated in the rubric."
 1005199.0,10963221.0,9.00,3,12,"Question regraded: Q.3
 
-Change in grade:3
+Change in grade: 
 
 Comments left by regrader: Solution is fully correct"
 983712.0,59395293.0,4.00,0,4,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Partial marks are only awarded for the reasons stated in the rubric."
 954909.0,90325788.0,12.00,0,12,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: 1 mark was correctly awarded for finding the position of A after 4 seconds, with an error. No additional marks, as per rubric"
 983027.0,45043726.0,5.00,0,5,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: No information in terms of acceleration of B is given"
 1032674.0,81694846.0,9.00,5,14,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Calculation mistake (last item in rubric ask for correctness.)"
 1006942.0,49746563.0,13.00,0,13,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: A (correct) factor of 40/9 appears with no justification"
 1013214.0,88570312.0,1.00,0,1,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Mistake in computation of position of A, no mention of acceleration of B is done throught, does not qualify for any other point in rubric"
 963878.0,24427353.0,16.00,1,17,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Correct antiderivative deserves one mark"
 1044844.0,62202346.0,12.00,1,13,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Correct substitution and got du correctly"
 911223.0,53264487.0,3.00,0,3,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: The originally rubric was applied correctly"
 1031376.0,90799735.0,14.00,2,16,"Question regraded: Q.3
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: Applied Pythagoras identity correctly and used correct substitution"
 984856.0,89649883.0,13.00,2,15,"Question regraded: Q.3
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: Constant term handled correctly and applied Pythagoras identity correctly"
 860847.0,56429574.0,10.00,1,11,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: The constant term was handled correctly."
 985711.0,86630332.0,16.00,1,17,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Correct substitution."
 1020859.0,33529595.0,12.00,0,12,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Since the function in (a) was a constant, the only acceptable answer to earn one point must be C'(t)=0."
 1045130.0,91829267.0,6.00,0,6,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: The function considered in (b) must be the one in (a), not just computing for s(x)."
 1049449.0,38265385.0,15.00,2,17,"Question regraded: Q.3
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: Correct substitution and correct antiderivative."
 948506.0,32964645.0,1.00,0,1,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Since the function in (a) was a constant, the only acceptable answer to earn one point must be C'(t)=0."
 961802.0,94822772.0,7.00,1,8,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Correctly provided d'(x)=0."
 1017343.0,71620918.0,9.00,0,9,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: You found that the expression in part (a) was a constant, the only acceptable answer to earn a point here must be C'(t) = 0"
 1037130.0,56695331.0,6.00,0,6,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: It's not clear how you found t=6."
 940508.0,64902976.0,15.00,2,17,"Question regraded: Q.3
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: Mistake on bounds at first u-sub"
 801681.0,45379450.0,3.00,0,3,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: *No comments left by regrader*"
 1079761.0,55992465.0,5.00,0,5,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: *No comments left by regrader*"
 1030876.0,76387802.0,9.00,3,12,"Question regraded: Q.3
 
-Change in grade:3
+Change in grade: 
 
 Comments left by regrader: 6+pi became 6*pi. Wrong bounds from the start"
 1029249.0,74369950.0,7.00,2,9,"Question regraded: Q.3
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: *No comments left by regrader*"
 1005676.0,69805943.0,10.00,0,10,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Original rubric was applied correctly."
 800607.0,70126644.0,1.00,2,3,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: 3(a): The circled answer is a *constant*. 3(b): see published rubric for notes on why this earns no marks."
 1047557.0,65035248.0,15.00,2,17,"Question regraded: Q.3
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: 3(a): Clearly wrong, not redeemed by writing something better in another part later. 3(b): A perfect solution starts at circle 2, but it is undermined by irrelevant writing before that. We round up to 5/5."
 1044541.0,15160898.0,7.00,1,8,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Original rubric was applied correctly."
 1027129.0,86375862.0,14.00,2,16,"Question regraded: Q.3
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: 3(a): Correct, +1; 3(b): Correct antiderivative for w-w^3 deserves +1"
 1028210.0,86293560.0,15.00,2,17,"Question regraded: Q.3
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: Solution was correct. Apologies."
 680247.0,51591238.0,4.00,2,6,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Original rubric was applied correctly: 1 mark for integrating the constant 6 and getting a complicated form of ""36"" on the bottom line. Wrong approach further compromised by algebra catastrophe (cos(u)cos(2u) is different from cos^2(2u) on page 1)"
 1012529.0,69016756.0,15.00,0,15,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Original rubric applied correctly. Answer does not explain why trapezoid rule doesn't work"
 1040714.0,49673601.0,15.00,0,15,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Original rubric applied correctly. Answer does not explain why trapezoid rule doesn't work"
 904737.0,71046452.0,8.00,1,9,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Answer for (a) is correct but analysis is confused/incomplete. (b) is wrong. Hence 1/6 rather than 0/6 is the correct score"
 1016133.0,33303454.0,12.00,1,13,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Answer for (b) is correct relative to wrong answer in (a)"
 1042811.0,74398264.0,14.00,2,16,"Question regraded: Q.3
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: (a): correct idea but wrong function analysis - 2/4. (b): correct answer relative to (a). 2/2"
 895020.0,12346599.0,16.00,0,16,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Original rubric applied correctly. Answer does not explain why trapezoid rule doesn't work"
 1040744.0,75314682.0,16.00,0,16,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Original rubric applied correctly. Answer has incorrect function analysis & does not explain why trapezoid rule doesn't work"
 1028554.0,19584176.0,9.00,2,11,"Question regraded: Q.3
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: Correct idea and analysis"
 1018000.0,31474836.0,8.00,0,8,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Correct idea but incorrect function analysis and incorrect answer in (a) and partial marks already awarded in(b)"
 1021416.0,56949993.0,15.00,2,17,"Question regraded: Q.3
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: 2 additional marks for correct idea and analysis in (a)"
 985985.0,27475540.0,16.00,1,17,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: 1 additional marks for correct idea and analysis in (a)"
 985176.0,97148761.0,12.00,0,12,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Incorrect answer and analysis in (a) and partial marks are given in (b)"
 956714.0,81856114.0,16.00,2,18,"Question regraded: Q.3
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: Correct idea and analysis"
 1005073.0,68251602.0,1.00,1,2,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: 1 additional mark for correct answer but incorrect analysis"
 1014446.0,57350183.0,7.00,2,9,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: 1 additional mark for the correct sum relative to the answer in part a)"
 1008497.0,60497583.0,2.00,0,2,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: The answer is wrong and there is no reference to any function when analysis was done."
 1007298.0,78893039.0,16.00,2,18,"Question regraded: Q.3
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: Correct idea and analysis"
 985235.0,72344476.0,14.00,1,15,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Correct idea and analysis but not enough justification as to why the function is decreasing and there are competing pictures."
 1015580.0,94536133.0,14.00,1,15,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: 1 additional mark for the correct sum relative to the answer in part a)"
 1049341.0,25300583.0,15.00,1,16,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Student correctly writes the function in terms of x"
 431764.0,43490739.0,7.00,2,9,"Question regraded: Q.2
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: 1 additional point for or correct but incomplete trigonometric substitution (given their error in completing the square) and 1 additional point for correct but incomplete attempt to write answer back in terms of x"
 1012037.0,64538432.0,16.00,2,18,"Question regraded: Q.3
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: Correct analysis with diagrams"
 983326.0,21343439.0,9.00,3,12,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Correct idea but wrong function analysis in (a)"
 1029686.0,37042892.0,11.00,1,12,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Underestimate instead of overestimate in (a)"
 1012750.0,97215115.0,9.00,1,10,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Correct idea but wrong and insufficient function analysis in (a)"
 1018126.0,27612662.0,8.00,1,9,"Question regraded: Q.3
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Correct part (b) relative to (a)"
 1018501.0,75788786.0,12.00,2,14,"Question regraded: Q.3
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: Underestimate instead of overestimate in (a), correct version of (b) relative to (a) apparent"
 1005933.0,73273518.0,15.00,0,15,"Question regraded: Q.3
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Insufficient function analysis/justification in (a)"
 783641.0,88753207.0,17.00,1,18,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: The student's answer is completely correct but is in a slightly different form than the rubric, I suspect the grader just missed this."
 954051.0,28978617.0,14.00,3,17,"Question regraded: Q.2
 
-Change in grade:3
+Change in grade: 
 
 Comments left by regrader: The student's answer is correct, except for the two lines of argument above the boxed answer (hence 5/6 marks rather than full credit)."
 1013019.0,11264447.0,17.00,1,18,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: The student's answer is completely correct but is in a different form than the rubric, I suspect the grader just missed this."
 1005736.0,24776585.0,10.00,0,10,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Wrong algebraic manipulations"
 1043059.0,54747431.0,12.00,1,13,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: +1 for splitting the integral. The variables from a substitution should not appear in an integral at the same time"
 874215.0,96513429.0,4.00,2,6,"Question regraded: Q.2
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: +2 for implementing trig sub"
 1032674.0,81694846.0,9.00,5,14,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Error carried forward from differentiating logarithm. "
 986296.0,49657323.0,8.00,2,10,"Question regraded: Q.2
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: +2 for implementing trig sub"
 960279.0,97088090.0,12.00,6,18,"Question regraded: Q.2
 
-Change in grade:6
+Change in grade: 
 
 Comments left by regrader: Correct solution"
 1013214.0,88570312.0,1.00,0,1,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: No productive work toward solution"
 680247.0,51591238.0,4.00,2,6,"Question regraded: Q.2
 
-Change in grade:2
+Change in grade: 
 
 Comments left by regrader: Some equaivalent correct work after early arithmetic error"
 1050874.0,58227299.0,17.00,1,18,"Question regraded: Q.2
 
-Change in grade:1
+Change in grade: 
 
 Comments left by regrader: Correct solution"
 1032608.0,52441268.0,16.00,0,16,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: Student applied sub log(ax)=sin(\theta), but wrong derivative. Wrong final answer"
 1009958.0,78090925.0,0.00,0,0,"Question regraded: Q.2
 
-Change in grade:0
+Change in grade: 
 
 Comments left by regrader: *No comments left by regrader*"
