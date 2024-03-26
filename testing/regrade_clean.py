@@ -8,7 +8,6 @@ import os
 # functions
 
 # vars
-assignment_name = input("Enter test name: ")
 
 # main
 shelp.make_dir_if_missing("output")
@@ -45,38 +44,35 @@ for i, gbook in enumerate(gBooks):
 regrades = pd.read_excel(sys.argv[2], sheet_name=None)
 regrades = list(regrades.values())[0]
 
-# strip whitespace
-regrades.loc[regrades["action required"].notna(), "action required"] = regrades["action required"].str.strip()
-
 # make no change string uniform
 regrades = regrades.replace("none", None, regex=False).reset_index(drop=True)
 regrades = regrades.replace("no change", None, regex=False)
 regrades = regrades.replace("No change", None, regex=False)
-regrades = regrades.replace("No change.", None, regex=False)
-regrades = regrades.replace("no change.", None, regex=False)
-
-pd.set_option('display.max_rows', None)
-print(regrades['action required'])
 
 # extract grade changes as ints
 regrades.loc[regrades["action required"].notna(), "action required"] = regrades["action required"].astype(str)
 regrades.loc[regrades["action required"].notna(), "scoreChange"] = regrades["action required"].str.split().str[0].astype("Int64")
 regrades.loc[regrades["action required"].isna(), "scoreChange"] = 0
 
-regrades = pd.merge(regrades, combined_gbook[["ID", "SIS User ID", assignment_name]],
+
+regrades = pd.merge(regrades, combined_gbook[["ID", "SIS User ID", "Test 2"]],
                     how='left',
                     left_on='student #',
                     right_on='SIS User ID')
 
 # format comments
 regrades.loc[regrades["comments"].isnull(), "comments"] = "*No comments left by regrader*"
-regrades["feedback"] = "Question regraded: Q." + regrades["Question for review"].astype(str) + "\n\nChange in grade: " +  + regrades['scoreChange'].astype(str) + "\n\nComments left by regrader: " + regrades["comments"].astype(str)
+regrades["feedback"] = "Question regraded: Q." + regrades["Q for review"].astype(str) + "\n\nChange in grade:" + regrades['scoreChange'].astype(str) + "\n\nComments left by regrader: " + regrades["comments"].astype(str)
 
 # aggregate grade changes
 regrades["scoreChangeSum"] = regrades.groupby(["ID", "SIS User ID"])["scoreChange"].transform("sum")
 
+# drop duplicates (deprecated)
+#regrades = regrades.drop_duplicates(subset=["ID", "SIS User ID"], keep="last")
+#regrades = regrades.reset_index(drop=True)
+
 # format grades for upload to Canvas
-regrades['initialScore'] = regrades[assignment_name]
+regrades['initialScore'] = regrades['Test 2']
 regrades['newScore'] = regrades['initialScore'].astype("float").astype("Int64") + regrades['scoreChangeSum'].astype("float").astype("Int64")
 
 
