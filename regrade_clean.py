@@ -48,12 +48,15 @@ regrades = list(regrades.values())[0]
 # strip whitespace
 regrades.loc[regrades["action required"].notna(), "action required"] = regrades["action required"].str.strip()
 
-# make no change string uniform
-regrades = regrades.replace("none", None, regex=False).reset_index(drop=True)
-regrades = regrades.replace("no change", None, regex=False)
-regrades = regrades.replace("No change", None, regex=False)
-regrades = regrades.replace("No change.", None, regex=False)
-regrades = regrades.replace("no change.", None, regex=False)
+# standardize no change string to `None`
+no_action_required = ["none",
+                      "no change",
+                      "No change",
+                      "No change.",
+                      "no change."]
+
+for phrase in no_action_required:
+    regrades = regrades.replace(phrase, None, regex=False).reset_index(drop=True)
 
 pd.set_option('display.max_rows', None)
 print(regrades['action required'])
